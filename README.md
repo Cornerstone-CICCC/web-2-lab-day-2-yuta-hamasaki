@@ -7,7 +7,7 @@
 ## Instructions
 
 - Recreate the demo video provided. The HTML and CSS is already provided but you **CANNOT** modify the HTML. You are free to modify the CSS.
-- Load the first user by passing `1` to the users API endpoint: [https://dummyjson.com/users/1]
+- Fetch the first user data by passing `1` to the users API endpoint: [https://dummyjson.com/users/1]
 - Clicking on the **Previous** button will show the previous user by `id` while the **Next** button will show the next user. For example, the first user that will be diplayed has an id of `1`. Clicking the **Next** button will show user id `2` and so on. However, clicking on the **Previous** button will show user id `30` since you will only receive 30 users from the API.
 
   If the current user displayed is user id `30`, clicking the **Next** button will loop back to user id `1`.
