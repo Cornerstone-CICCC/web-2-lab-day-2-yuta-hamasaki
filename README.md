@@ -13,7 +13,7 @@
   If the current user displayed is user id `30`, clicking the **Next** button will loop back to user id `1`.
 - Clicking on the post title will open a modal with some post information *(title, body, views)*. The modal needs to be dynamically created in your JavaScript file. The modal should also have a *Close Modal* button.
 - The Posts and To Dos `<h3>` headings are clickable and will slide the content up or down.
-- Use jQuery methods and event listeners to complete the exercise
+- Use jQuery methods and event listeners to complete the exercise. Use AJAX instead of `fetch`.
 
 ## API Endpoints
 
