@@ -26,4 +26,4 @@
 
 ## Tip
 
-Focus on the getting and displaying the data first before working on the modal. Good luck!
+Focus on the getting and displaying the data first before working on the modal. Create reusable functions where you can just the ids as parameters. Good luck!
